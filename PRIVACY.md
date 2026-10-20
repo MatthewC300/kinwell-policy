@@ -1,6 +1,6 @@
 # Kinwell Privacy Policy
 
-Updated October 19, 2026 · Policy version 2026-10-19.1
+Updated October 19, 2026 · Policy version 2026-10-19.2
 
 ## Operator and scope
 
@@ -40,6 +40,10 @@ Application records are stored on the operator's ThinkPad. Public website traffi
 Passwords are salted and hashed. Provider tokens are encrypted with AES-256-GCM. The database itself is not encrypted by Kinwell. Encryption keys and developer secrets are kept on the server; anyone able to read the database and matching keys can decrypt tokens. Security also depends on computer access controls, device protection and protected backups. No system guarantees absolute security.
 
 Kinwell does not sell personal information, include advertising or analytics trackers, or send wearable readings to AI services. The necessary sign-in cookie normally lasts seven days; signing out ends the current session. There is no marketing-cookie feature in this edition. Third-party services have their own cookie and retention practices.
+
+## Mountain background and device preferences
+
+The decorative mountain background uses your device clock. If you choose Use approximate location, your browser requests location permission. Kinwell rounds the returned coordinates to one decimal place (roughly a 10 km grid), stores only those rounded coordinates in this browser, and calculates sun and moon positions locally. Neither the coordinates nor calculated positions are sent to the Kinwell server or a third-party astronomy service. Your browser or operating system may contact its own location provider to obtain a position. Use Forget location in settings to remove the stored coordinates, or clear site data in your browser. The animation preference is also stored locally. These device preferences persist across sign-out on a shared browser and are not linked to a Kinwell account. Without location, the sky follows an approximate local-time schedule, not local astronomical rise/set times.
 
 ## Retention, disconnecting and requests
 
