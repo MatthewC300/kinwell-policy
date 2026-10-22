@@ -1,6 +1,6 @@
 # Kinwell Privacy Policy
 
-Updated October 21, 2026 · Policy version 2026-10-21.2
+Updated October 21, 2026 · Policy version 2026-10-21.3
 
 ## Operator and scope
 
@@ -24,7 +24,7 @@ Family membership requires an explicit agreement to share imported sleep scores 
 
 New members agree when creating or joining a family. Existing members must accept the new agreement before their stats appear to others; old sharing toggles do not count as agreement. Members awaiting agreement retain their personal dashboard but cannot view other members’ readings. Their name and pending-agreement status can be visible to accepted family members. Acceptance is recorded with a version and time for the current membership. Linking an additional provider after accepting also shares its supported sleep scores and durations while that membership continues.
 
-There are no separate sharing toggles within a family. You can leave the family in Settings to stop later access through its dashboard while retaining your personal account, provider connections and imported readings. Leaving clears the active membership agreement; joining again requires a fresh agreement. If the family creator leaves, another member takes over invitations and outstanding invitations are invalidated. If the last member leaves, the empty family and its invitations are removed. Leaving cannot recall screenshots or copies someone already made. Family participation is voluntary; members should not redistribute another person’s readings without permission. An invitation does not authorize access to another person’s wearable account.
+There are no separate sharing toggles within a family. You can leave the family in Settings to stop later access through its dashboard while retaining your personal account, provider connections and imported readings. Leaving clears the active membership agreement; joining again requires a fresh agreement. If the family creator leaves, ownership passes to another member and outstanding invitations are invalidated. If the last member leaves, the empty family and its invitations are removed. Leaving cannot recall screenshots or copies someone already made. Family participation is voluntary; members should not redistribute another person’s readings without permission. An invitation does not authorize access to another person’s wearable account.
 
 ## Site-owner access
 
@@ -62,3 +62,8 @@ Kinwell does not implement a verified parental-consent workflow. Providing a bir
 ## Changes
 
 The version and update date identify this notice. Material changes to collection, use or sharing should be communicated to affected members before new uses are enabled. A policy update alone does not turn sharing on or authorize a new provider connection. See the companion Terms of Service for use of Kinwell.
+
+
+## Family invitations and ownership
+
+Any family member who has agreed to family sharing can generate a reusable invitation link. Anyone with the link can sign in or create an account and agree to join until the link expires three hours after creation. Share links only with intended family members. The family creator is the family owner and can remove other members. Removal ends family sharing without deleting the removed member’s personal account, device connections or readings, and invalidates all current family invitation links. If the owner leaves, ownership transfers to another member.
