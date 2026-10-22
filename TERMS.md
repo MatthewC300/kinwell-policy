@@ -1,6 +1,6 @@
 # Kinwell Terms of Service
 
-Updated October 21, 2026 · Terms version 2026-10-21.1
+Updated October 21, 2026 · Terms version 2026-10-21.2
 
 ## About Kinwell
 
@@ -26,7 +26,7 @@ Kinwell currently charges no fee. Wearables, their memberships, internet access,
 
 ## Your data and choices
 
-You retain any rights you have in your information. By authorizing an integration, you permit Kinwell to retrieve, store and process the supported readings to provide the described features. Family membership requires explicit agreement to share imported sleep scores and durations, including past imported nights and future syncs. Existing members must agree before the new sharing takes effect. Additional supported devices linked during an agreed membership also participate in that sharing. You can leave the family to stop sharing while keeping your personal account, or disconnect a provider to stop its imports. Leaving clears your active membership agreement; rejoining requires agreement again. If the family creator leaves, another member takes over invitations; an empty family is closed. The Privacy Policy explains active-data deletion, retained backups and operator access. Contact the operator for account access, export, correction or deletion requests; birthday correction is available in Connections & privacy, while the other account workflows are not yet self-service.
+You retain any rights you have in your information. By authorizing an integration, you permit Kinwell to retrieve, store and process the supported readings to provide the described features. Family membership requires explicit agreement to share imported sleep scores and durations, including past imported nights and future syncs. Existing members must agree before the new sharing takes effect. Additional supported devices linked during an agreed membership also participate in that sharing. You can leave the family to stop sharing while keeping your personal account, or disconnect a provider to stop its imports. Leaving clears your active membership agreement; rejoining requires agreement again. If the family creator leaves, ownership passes to another member; an empty family is closed. The Privacy Policy explains active-data deletion, retained backups and operator access. Contact the operator for account access, export, correction or deletion requests; birthday correction is available in Connections & privacy, while the other account workflows are not yet self-service.
 
 The site owner can view registered-profile information, and the operator can technically access server records and backups. Do not use this service if that arrangement is unsuitable for your information. Other members must respect privacy choices and must not redistribute private readings without permission.
 
@@ -47,3 +47,8 @@ Kinwell is provided as available, without a promise that readings, comparisons o
 ## Contact and document versions
 
 Contact Matthew Christensen at mattchristensen503@gmail.com. The date and version above identify these terms. Review material updates before continuing to use affected features. These terms do not establish that an existing member has already reviewed or accepted a newly published version.
+
+
+## Family invitations and ownership
+
+Any family member who has agreed to family sharing can generate a reusable invitation link. Anyone with the link can sign in or create an account and agree to join until the link expires three hours after creation. Share links only with intended family members. The family creator is the family owner and can remove other members. Removal ends family sharing without deleting the removed member’s personal account, device connections or readings, and invalidates all current family invitation links. If the owner leaves, ownership transfers to another member.
