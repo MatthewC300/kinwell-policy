@@ -1,6 +1,6 @@
 # Kinwell Terms of Service
 
-Updated October 19, 2026 · Terms version 2026-10-19.1
+Updated October 21, 2026 · Terms version 2026-10-21.1
 
 ## About Kinwell
 
@@ -10,7 +10,7 @@ Kinwell is a personal family wellness website operated by Matthew Christensen. C
 
 Use an account you control and provide accurate information. Keep your sign-in details private and use a unique password. Contact the operator if you suspect unauthorized access. Connect only a wearable account you own or are authorized to manage, and satisfy the provider's eligibility requirements. A parent or guardian must be appropriately involved where required for a minor's participation. Kinwell does not provide a verified parental-consent process; contact the operator before creating an account for a child. Providing a birthday does not override applicable law or provider rules. Provide an accurate birthday for age-adjusted sleep comparisons and correct it in Connections & privacy if needed.
 
-Family invitations should be sent privately to their intended recipients. Joining a family does not authorize anyone to connect or disclose another person's wearable data. Participation and family sharing are voluntary. Do not pressure others to share, impersonate someone, share another member's private information without permission, or use rankings to harass or discriminate.
+Family invitations should be sent privately to their intended recipients. Joining a family does not authorize anyone to connect or disclose another person's wearable data. Family participation is voluntary. Participation requires agreeing to share supported sleep scores and durations; you may use a personal account outside a family. Do not pressure others to share, impersonate someone, share another member's private information without permission, or use rankings to harass or discriminate.
 
 ## Wellness information and limitations
 
@@ -20,13 +20,13 @@ The sleep formula uses duration, efficiency and consistency with age-group refer
 
 ## Connected services and cost
 
-WHOOP and Oura connections require separate authorization. Kinwell requests only the permissions implemented by its integration, which may be fewer than the scopes enabled in a developer dashboard. This edition imports readings when you select Sync; it does not promise continuous or real-time updates. Provider outages, account restrictions, membership status, API changes and delayed ring/phone synchronization can affect availability.
+WHOOP and Oura connections require separate authorization. Kinwell requests only the permissions implemented by its integration, which may be fewer than the scopes enabled in a developer dashboard. Connected accounts sync automatically about every 30 minutes while the server is running, with retries for failures and an optional manual sync button. Kinwell does not promise continuous or real-time updates. Provider outages, account restrictions, membership status, API changes and delayed ring/phone synchronization can affect availability.
 
 Kinwell currently charges no fee. Wearables, their memberships, internet access, electricity and any hosting services you separately choose may cost money. Oura Gen3 and newer require active membership for API data access. The relevant providers' terms and privacy policies apply to their services. Kinwell is an independent project and is not endorsed by Oura, WHOOP, Apple, ngrok or GitHub.
 
 ## Your data and choices
 
-You retain any rights you have in your information. By authorizing an integration, you permit Kinwell to retrieve, store and process the supported readings to provide the described features. Family sharing requires its separate settings; linking a wearable does not by itself enable sharing. You can turn sharing off or disconnect a provider. The Privacy Policy explains active-data deletion, retained backups and operator access. Contact the operator for account access, export, correction or deletion requests; birthday correction is available in Connections & privacy, while the other account workflows are not yet self-service.
+You retain any rights you have in your information. By authorizing an integration, you permit Kinwell to retrieve, store and process the supported readings to provide the described features. Family membership requires explicit agreement to share imported sleep scores and durations, including past imported nights and future syncs. Existing members must agree before the new sharing takes effect. Additional supported devices linked during an agreed membership also participate in that sharing. You can leave the family to stop sharing while keeping your personal account, or disconnect a provider to stop its imports. Leaving clears your active membership agreement; rejoining requires agreement again. If the family creator leaves, another member takes over invitations; an empty family is closed. The Privacy Policy explains active-data deletion, retained backups and operator access. Contact the operator for account access, export, correction or deletion requests; birthday correction is available in Connections & privacy, while the other account workflows are not yet self-service.
 
 The site owner can view registered-profile information, and the operator can technically access server records and backups. Do not use this service if that arrangement is unsuitable for your information. Other members must respect privacy choices and must not redistribute private readings without permission.
 
