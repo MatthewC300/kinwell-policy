@@ -1,6 +1,6 @@
 # Kinwell Privacy Policy
 
-Updated October 19, 2026 · Policy version 2026-10-19.2
+Updated October 21, 2026 · Policy version 2026-10-21.1
 
 ## Operator and scope
 
@@ -47,7 +47,7 @@ The decorative mountain background uses your device clock. If you choose Use app
 
 ## Retention, disconnecting and requests
 
-Sync is initiated with a button. A successful sync replaces that provider's active imported snapshot with approximately the last 30 days; a failed sync keeps the previous snapshot. If you do not sync again, the last snapshot remains until disconnected or administratively deleted. A display window is not an automatic deletion schedule.
+Connected accounts sync automatically about every 30 minutes while the server is running, including when the website is closed. Failed attempts retry with increasing delays up to one hour; accounts requiring renewed authorization stop syncing until reconnected. You can also sync using the button. A successful sync replaces that provider's active imported snapshot with approximately the last 30 days; a failed sync keeps the previous snapshot. Disconnecting stops future imports. A display window is not an automatic deletion schedule.
 
 Disconnecting a wearable deletes that provider's active imported records, credentials and connection/sharing records from Kinwell, and attempts to revoke provider access. If revocation cannot be confirmed, Kinwell tells you to revoke access in the provider account. Disconnecting does not delete your Kinwell account, family membership, birthday, other provider's data, or records held by the provider itself.
 
