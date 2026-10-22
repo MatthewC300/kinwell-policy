@@ -1,6 +1,6 @@
 # Kinwell Privacy Policy
 
-Updated October 21, 2026 · Policy version 2026-10-21.1
+Updated October 21, 2026 · Policy version 2026-10-21.2
 
 ## Operator and scope
 
@@ -8,7 +8,7 @@ Kinwell is a personal family wellness website operated by Matthew Christensen. C
 
 ## Information and purposes
 
-Account information includes your name, email address, salted password hash, family membership, invitation records, sharing preferences, and registration date where recorded. Session records and a necessary cookie support sign-in. The server processes connection information such as IP addresses for requests and temporary login throttling. Kinwell requires your birthday when creating an account, or once when completing an existing account. It stores the date in your account record and calculates your age group on each sleep date to adjust the sleep-duration reference automatically. You can correct your birthday in Connections & privacy; this recalculates imported sleep scores. Your birthday is not displayed to family members or in the site-owner Profiles list. The current Oura integration does not save or use the age returned by Oura.
+Account information includes your name, email address, salted password hash, family membership, invitation records, sharing agreement version and acceptance time, legacy sharing preferences, and registration date where recorded. Session records and a necessary cookie support sign-in. The server processes connection information such as IP addresses for requests and temporary login throttling. Kinwell requires your birthday when creating an account, or once when completing an existing account. It stores the date in your account record and calculates your age group on each sleep date to adjust the sleep-duration reference automatically. You can correct your birthday in Connections & privacy; this recalculates imported sleep scores. Your birthday is not displayed to family members or in the site-owner Profiles list. The current Oura integration does not save or use the age returned by Oura.
 
 WHOOP access verifies your provider account ID. Kinwell requests profile, sleep, recovery, cycle and workout access and renewable authorization. It stores selected scored sleep dates, bedtime/wake time, timezone offset, duration, time in bed, missing-data duration and nap status; recovery score, resting heart rate and HRV; and cycle/workout strain, average heart rate, times and sport. Record IDs and update timestamps support import handling. WHOOP profile names and email addresses are discarded. Kinwell does not request WHOOP body measurements, even if the developer dashboard allows that scope.
 
@@ -20,9 +20,11 @@ Provider access and refresh tokens allow imports without repeatedly signing in t
 
 Kinwell uses imported readings for personal sleep history, charts and an experimental age-adjusted sleep score. If both devices have a main sleep on the same date, Oura takes priority and WHOOP fills dates without Oura. Readings are not added together. The score is a Kinwell estimate, not a provider score or medical assessment. It cannot establish who is healthiest or remove differences between device measurements.
 
-Your name and whether sharing is available are visible to your family. Calculated-score sharing and each provider's sleep-duration sharing are separate choices and start off. When enabled, scores share dates, source, formula version and scores; durations share dates, source and hours asleep. Family members can see resulting rankings and averages. Birthday, age group, detailed timing, efficiency and consistency components remain private through family-facing application responses. WHOOP recovery and activity details are not shared with family members by this edition.
+Family membership requires an explicit agreement to share imported sleep scores and sleep durations, including past imported nights and future syncs, with family members who have also agreed. Scores include dates, source, formula version and scores; durations include dates, source and hours asleep. Family members see rankings and averages. Birthday, age group, detailed timing, efficiency and consistency components remain private through family-facing application responses. WHOOP recovery and activity details are not shared with family members by this edition.
 
-Turning sharing off prevents later access through the family dashboard. It cannot recall screenshots or copies someone already made. Sharing is voluntary; family members should not redistribute another person's readings without permission. An invitation permits joining a family, not access to a private wearable account.
+New members agree when creating or joining a family. Existing members must accept the new agreement before their stats appear to others; old sharing toggles do not count as agreement. Members awaiting agreement retain their personal dashboard but cannot view other members’ readings. Their name and pending-agreement status can be visible to accepted family members. Acceptance is recorded with a version and time for the current membership. Linking an additional provider after accepting also shares its supported sleep scores and durations while that membership continues.
+
+There are no separate sharing toggles within a family. You can leave the family in Settings to stop later access through its dashboard while retaining your personal account, provider connections and imported readings. Leaving clears the active membership agreement; joining again requires a fresh agreement. If the family creator leaves, another member takes over invitations and outstanding invitations are invalidated. If the last member leaves, the empty family and its invitations are removed. Leaving cannot recall screenshots or copies someone already made. Family participation is voluntary; members should not redistribute another person’s readings without permission. An invitation does not authorize access to another person’s wearable account.
 
 ## Site-owner access
 
