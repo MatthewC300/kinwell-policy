@@ -52,3 +52,10 @@ Contact Matthew Christensen at mattchristensen503@gmail.com. The date and versio
 ## Family invitations and ownership
 
 Any family member who has agreed to family sharing can generate a reusable invitation link. Anyone with the link can sign in or create an account and agree to join until the link expires three hours after creation. Share links only with intended family members. The family creator is the family owner and can remove other members. Removal ends family sharing without deleting the removed member’s personal account, device connections or readings, and invalidates all current family invitation links. If the owner leaves, ownership transfers to another member.
+
+
+## Maintenance and account recovery — November 2, 2026
+
+Password recovery is operator-assisted. Contact the operator using a known contact channel to verify account ownership. The operator can issue a private, single-use password reset link valid for 30 minutes. Only a hash of the reset token is stored. Issuing a new link invalidates earlier links for that account. Completing a reset invalidates its links and all existing sign-in sessions. Kinwell does not send automatic password-reset emails.
+
+Daily backups are stored privately on the same ThinkPad, with up to seven successful daily snapshots retained. They include the database, settings and encryption keys. Each snapshot is checked for database integrity. This does not protect against loss of the ThinkPad or its disk. Older deployment backups remain separately retained until reviewed and removed.
