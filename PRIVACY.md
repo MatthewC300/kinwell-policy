@@ -53,7 +53,7 @@ Connected accounts sync automatically about every 30 minutes while the server is
 
 Disconnecting a wearable deletes that provider's active imported records, credentials and connection/sharing records from Kinwell, and attempts to revoke provider access. If revocation cannot be confirmed, Kinwell tells you to revoke access in the provider account. Disconnecting does not delete your Kinwell account, family membership, birthday, other provider's data, or records held by the provider itself.
 
-Accounts, preferences and legacy manual records remain until administratively removed. The update helper creates local backups containing the data folder, which can include health records, credentials and keys. Backups are not automatically erased by disconnecting or deletion in the active database; there is currently no automatic backup-expiration schedule. Contact the operator to request removal from active storage and retained backup copies and to confirm what has been removed. Kinwell has no self-service account-deletion or export workflow yet. The operator may need to verify that a request concerns your account without asking for your password or provider secret. Rights and response requirements under applicable law remain available.
+Accounts, preferences and legacy manual records remain until administratively removed. The update helper creates local backups containing the data folder, which can include health records, credentials and keys. Backups are not automatically erased by disconnecting or deletion in the active database; deployment backups have no automatic expiration schedule. Contact the operator to request removal from active storage and retained backup copies and to confirm what has been removed. Kinwell has no self-service account-deletion or export workflow yet. The operator may need to verify that a request concerns your account without asking for your password or provider secret. Rights and response requirements under applicable law remain available.
 
 ## Children and participation
 
@@ -67,3 +67,10 @@ The version and update date identify this notice. Material changes to collection
 ## Family invitations and ownership
 
 Any family member who has agreed to family sharing can generate a reusable invitation link. Anyone with the link can sign in or create an account and agree to join until the link expires three hours after creation. Share links only with intended family members. The family creator is the family owner and can remove other members. Removal ends family sharing without deleting the removed member’s personal account, device connections or readings, and invalidates all current family invitation links. If the owner leaves, ownership transfers to another member.
+
+
+## Maintenance and account recovery — November 2, 2026
+
+Password recovery is operator-assisted. Contact the operator using a known contact channel to verify account ownership. The operator can issue a private, single-use password reset link valid for 30 minutes. Only a hash of the reset token is stored. Issuing a new link invalidates earlier links for that account. Completing a reset invalidates its links and all existing sign-in sessions. Kinwell does not send automatic password-reset emails.
+
+Daily backups are stored privately on the same ThinkPad, with up to seven successful daily snapshots retained. They include the database, settings and encryption keys. Each snapshot is checked for database integrity. This does not protect against loss of the ThinkPad or its disk. Older deployment backups remain separately retained until reviewed and removed.
